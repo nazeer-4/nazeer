@@ -74,7 +74,7 @@ Ensured security with firewall configurations, HTTPS, and Azure Security Center.
 Role: Team Lead
 
 
-🏅 Certifications
+🏅 Certifications 
 
 🧠 TCS NQT IT Qualified Certificate – November 2024
 🔐 Ethical Hacking Workshop – December 2023
