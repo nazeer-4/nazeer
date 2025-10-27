@@ -94,6 +94,6 @@ Collections
 
 
 🤝 Let's Connect
-🌐 LinkedIn
-💻 HackerRank
+🌐 http://www.linkedin.com/in/nazeer-gandlapenta7645
+💻 https://www.hackerrank.com/profile/nazeergandlapen1
 ✉️ nazeergandlapenta3@gmail.com
