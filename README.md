@@ -1,81 +1,99 @@
-# 👋 Hi, I'm Nazeer Gandlapenta
+👋 Hi, I'm Nazeer Gandlapenta
+🎓 B.Tech in Computer Science and Engineering (December 2021–April 2025)
+📍 Golden Valley Integrated Campus, Madanapalli, Andhra Pradesh
+📧 Email: nazeergandlapenta3@gmail.com
+📱 Mobile: +91 7993147644
 
-🎓 **B.Tech in Computer Science Engineering**  
-Golden Valley Integrated Campus, Madanapalli, Andhra Pradesh (2021–2025)  
-💻 Aspiring **Full Stack Developer | Cloud Enthusiast | Problem Solver**
+🚀 About Me
+I am a passionate and motivated Computer Science student with a strong interest in Web Development, Core Java, and Software Engineering.
+I enjoy building creative and responsive web applications, learning new technologies, and solving real-world problems through code.
 
----
+🧠 Skills
+💻 Programming Languages
 
-## 🌟 About Me
+Java
+Python (Basics)
+C (Basics)
 
-I'm a passionate and self-motivated Computer Science Engineering student who loves building modern, responsive, and interactive web applications.  
-I enjoy learning new technologies, exploring cloud platforms, and developing real-world projects that solve practical problems.
+🗄️ Databases
 
----
+SQL
+MySQL
+Oracle
 
-## 🧠 Skills
+🌐 Web Technologies
 
-- **Languages:** Java, Python  
-- **Databases:** SQL, MySQL, Oracle  
-- **Web Technologies:** HTML, CSS, JavaScript, Bootstrap  
-- **Tools & IDEs:** Visual Studio Code, Eclipse, Turbo C  
-- **Platforms:** Windows, Linux, Microsoft Azure  
-- **Soft Skills:** Team Leadership, Communication, People Management  
+HTML
+CSS
+JavaScript
+Bootstrap
 
----
+🧰 Tools & Platforms
 
-## 💼 Experience
+Visual Studio Code
+Eclipse
+Turbo C
+MS Office
+Microsoft Azure
+Windows & Linux
 
-### 🖥️ Web Development Intern (May 2024 – July 2024)
-- Designed and developed **responsive websites** using HTML, CSS, and JavaScript.  
-- Built interactive pages with image sliders, filters, and modern UI components.  
-- Improved frontend design and user engagement under mentor supervision.  
+💬 Soft Skills
 
----
+Excellent Communication
+People Management
+Problem Solving
+Team Leadership
 
-## 🚀 Projects
 
-### 🌐 **Modern Web Hosting IIS Web Server Deployment in the Cloud**
-- Deployed a web application using **Microsoft IIS** on **Azure Virtual Machines**.  
-- Configured **auto-scaling**, **load balancing**, and **HTTPS security** for reliability.  
-- Improved performance and ensured secure cloud deployment.  
+💼 Work Experience
+🌟 Web Development Intern (May 2024 – July 2024)
 
-### ☕ **Black Gold Coffee Lounge Website**
-- Developed a responsive website using HTML, CSS, JavaScript, and Bootstrap.  
-- Showcased the lounge’s menu and services with modern UI and smooth navigation.
+Designed, developed, and maintained user-friendly web pages using HTML, CSS, and JavaScript.
+Built real-world projects showcasing creativity and technical skills.
+Worked under guidance from experienced developers and improved frontend skills.
 
-### 🎬 **Netflix Clone**
-- Built a Netflix-style responsive UI using HTML, CSS, and JavaScript.  
-- Added hover effects, banners, and interactive play buttons for better UX.  
 
----
+💡 Projects
+☕ Black Gold Coffee Lounge Website (Mini Project)
 
-## 🏅 Certifications
+Created a visually appealing web interface for Black Gold Coffee Lounge.
+Used HTML, CSS, JavaScript, and Bootstrap for structure and interactivity.
+Displayed the lounge's ambiance, menu, and services with image sliders, menu filters, and contact forms.
 
-- ✅ **TCS NQT ION–IT Qualified Certificate** (2024)  
-- 🧠 **NPTEL Cloud Computing** (2024)  
-- 🕵️ **Ethical Hacking Workshop** (2023)  
-- 📊 **Data Science Workshop** (2024)  
-- 💻 **Web Development Internship Certificate** (2024)  
-- 🐍 **Python Programming Masterclass** (2022)
+🎬 Netflix Clone Website (May 2025 – June 2025)
 
----
+Built a Netflix-like responsive website using HTML, CSS, JavaScript, and Bootstrap.
+Implemented navigation bars, banners, and interactive sections.
+Enhanced UI/UX skills through frontend development.
 
-## 🌐 Connect With Me
+☁️ Modern Web Hosting IIS Web Server Deployment in the Cloud (Major Project)
 
-- 📧 **Email:** [nazeergandlapenta3@gmail.com](mailto:nazeergandlapenta3@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/nazeer-gandlapenta7645](https://www.linkedin.com/in/nazeer-gandlapenta7645)  
-- 🧮 **HackerRank:** [nazeergandlapen1](https://www.hackerrank.com/profile/nazeergandlapen1)  
-- 🧰 **GitHub:** [github.com/nazeer-4](https://github.com/nazeer-4)
+Deployed a web application using Microsoft IIS on Azure Virtual Machines.
+Implemented auto-scaling, load balancing, and monitoring for high availability.
+Ensured security with firewall configurations, HTTPS, and Azure Security Center.
+Role: Team Lead
 
----
 
-## 📊 GitHub Stats
+🏅 Certifications
 
-![Nazeer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazeer-4&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazeer-4&layout=compact&theme=tokyonight)
+🧠 TCS NQT IT Qualified Certificate – November 2024
+🔐 Ethical Hacking Workshop – December 2023
+📊 Data Science Workshop – February 2024
+☁️ NPTEL Cloud Computing – April 2024
+💻 Web Development Internship Certificate – July 2024
+🐍 Python Programming Certificate – December 2022
 
----
 
-> 💬 *"Code is not just about syntax — it's about creativity, logic, and impact."*  
-> — Nazeer Gandlapenta
+🌱 Currently Learning
+
+Advanced Java
+React.js and Node.js
+Cloud Deployment (Azure)
+Spring and SpringBoot
+Collections
+
+
+🤝 Let's Connect
+🌐 LinkedIn
+💻 HackerRank
+✉️ nazeergandlapenta3@gmail.com
